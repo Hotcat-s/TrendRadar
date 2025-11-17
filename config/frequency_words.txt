@@ -1,4 +1,8 @@
 开源
++工具
+
+千问
+阿里
 
 智元
 灵犀
@@ -13,25 +17,14 @@ deepmind
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
 
 自动驾驶
-
 机器人
 
-科技
-
 华为
-鸿蒙
 特斯拉
-马斯克
 英伟达
-黄仁勋
-NVIDIA
+
